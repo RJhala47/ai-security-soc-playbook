@@ -226,4 +226,4 @@ Incorrect AI-generated guidance leads to insecure configurations or operational 
 
 ## 📌 License
 
-MIT License – Free to use, modify, and share.
+MIT License – Free to use and share.
